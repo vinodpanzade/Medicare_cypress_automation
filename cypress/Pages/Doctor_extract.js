@@ -14,10 +14,10 @@ class Doctorextract {
           .find("h3[data-testid='card-doctor-name']")
           .text()
           .trim();
-        // this.name=dname;
+        
 
         let spec = card.find("p[data-testid='card-speciality']").text().trim();
-        // this.speciality=spec;
+        
 
         let rawText = card
           .find("b[data-testid='card-experience']")

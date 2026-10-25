@@ -8,6 +8,7 @@ cy.fixture("Patient").then((datas)=>{
 })
     
 })
+
 Then("same user will book for different doctors",()=>{
     cy.fixture("Sameuser").then((users)=>{
         cy.wrap(users).each((user)=>{

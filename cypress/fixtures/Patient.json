@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Vinod Panzade",
+    "age": 24,
+    "gender": "male",
+    "mobile": "7972561515",
+    "email": "vinod12@gmail.com",
+    "visitType": "New consultation",
+    "symptoms": "Having cold and fever",
+    "doctorIndex": 0
+  },
+  {
+    "name": "Rahul Sharma",
+    "age": 28,
+    "gender": "male",
+    "mobile": "9876543210",
+    "email": "rahul.sharma@example.com",
+    "visitType": "New consultation",
+    "symptoms": "Having headache",
+    "doctorIndex": 1
+  },
+  {
+    "name": "Priya Patil",
+    "age": 32,
+    "gender": "female",
+    "mobile": "9876543211",
+    "email": "priya.patil@example.com",
+    "visitType": "New consultation",
+    "symptoms": "Skin irritation",
+    "doctorIndex": 2
+  },
+  {
+    "name": "Amit Verma",
+    "age": 45,
+    "gender": "male",
+    "mobile": "9876543212",
+    "email": "amit.verma@example.com",
+    "visitType": "New consultation",
+    "symptoms": "Having stomach pain",
+    "doctorIndex": 3
+  },
+  {
+    "name": "Sneha Joshi",
+    "age": 29,
+    "gender": "female",
+    "mobile": "9876543213",
+    "email": "sneha.joshi@example.com",
+    "visitType": "New consultation",
+    "symptoms": "Having a cough",
+    "doctorIndex": 4
+  }
+]

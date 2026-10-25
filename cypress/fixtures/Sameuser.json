@@ -1,0 +1,55 @@
+[
+
+{
+    "name": "Vinod Panzade",
+    "age": 24,
+    "gender": "male",
+    "mobile": "7972561515",
+    "email": "vinod12@gmail.com",
+    "visitType": "New consultation",
+    "symptoms": "Having cold and fever",
+    "doctorIndex": 1
+  },
+  {
+    "name": "Vinod Panzade",
+    "age": 24,
+    "gender": "male",
+    "mobile": "7972561515",
+    "email": "vinod12@gmail.com",
+    "visitType": "New consultation",
+    "symptoms": "headach and stomach pain",
+    "doctorIndex": 2
+  },
+  {
+    "name": "Vinod Panzade",
+    "age": 24,
+    "gender": "male",
+    "mobile": "7972561515",
+    "email": "vinod12@gmail.com",
+    "visitType": "New consultation",
+    "symptoms": "heart realted issue",
+    "doctorIndex": 4
+  },
+  {
+    "name": "Vinod Panzade",
+    "age": 24,
+    "gender": "male",
+    "mobile": "7972561515",
+    "email": "vinod12@gmail.com",
+    "visitType": "New consultation",
+    "symptoms": "high sugar issue",
+    "doctorIndex": 3
+  },
+  {
+    "name": "Vinod Panzade",
+    "age": 24,
+    "gender": "male",
+    "mobile": "7972561515",
+    "email": "vinod12@gmail.com",
+    "visitType": "New consultation",
+    "symptoms": "Having cold and fever",
+    "doctorIndex": 0
+  }
+
+
+]

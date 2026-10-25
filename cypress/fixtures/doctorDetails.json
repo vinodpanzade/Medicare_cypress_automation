@@ -1,0 +1,226 @@
+{
+  "Dr. Anitha Raman": {
+    "name": "Dr. Anitha Raman",
+    "speciality": "General Physician",
+    "exp": 12,
+    "rating": 4.6,
+    "fees": 500
+  },
+  "Dr. Vikram Shetty": {
+    "name": "Dr. Vikram Shetty",
+    "speciality": "Cardiology",
+    "exp": 18,
+    "rating": 4.8,
+    "fees": 1
+  },
+  "Dr. Meera Krishnan": {
+    "name": "Dr. Meera Krishnan",
+    "speciality": "Dermatology",
+    "exp": 9,
+    "rating": 4.4,
+    "fees": 700
+  },
+  "Dr. Suresh Babu": {
+    "name": "Dr. Suresh Babu",
+    "speciality": "Orthopaedics",
+    "exp": 15,
+    "rating": 4.5,
+    "fees": 800
+  },
+  "Dr. Lakshmi Iyer": {
+    "name": "Dr. Lakshmi Iyer",
+    "speciality": "Paediatrics",
+    "exp": 11,
+    "rating": 4.9,
+    "fees": 600
+  },
+  "Dr. Arun Prasad": {
+    "name": "Dr. Arun Prasad",
+    "speciality": "ENT",
+    "exp": 8,
+    "rating": 4.2,
+    "fees": 550
+  },
+  "Dr. Fathima Noor": {
+    "name": "Dr. Fathima Noor",
+    "speciality": "Neurology",
+    "exp": 14,
+    "rating": 4.7,
+    "fees": 1
+  },
+  "Dr. Rajesh Kumar": {
+    "name": "Dr. Rajesh Kumar",
+    "speciality": "Dentistry",
+    "exp": 7,
+    "rating": 4.3,
+    "fees": 400
+  },
+  "Dr. Priya Varghese": {
+    "name": "Dr. Priya Varghese",
+    "speciality": "General Physician",
+    "exp": 6,
+    "rating": 4.1,
+    "fees": 450
+  },
+  "Dr. Mohan Raj": {
+    "name": "Dr. Mohan Raj",
+    "speciality": "Cardiology",
+    "exp": 22,
+    "rating": 4.5,
+    "fees": 1
+  },
+  "Dr. Sneha Pillai": {
+    "name": "Dr. Sneha Pillai",
+    "speciality": "Dermatology",
+    "exp": 5,
+    "rating": 3.9,
+    "fees": 500
+  },
+  "Dr. Karthik Subbu": {
+    "name": "Dr. Karthik Subbu",
+    "speciality": "Orthopaedics",
+    "exp": 10,
+    "rating": 4.4,
+    "fees": 750
+  },
+  "Dr. Nandini Rao": {
+    "name": "Dr. Nandini Rao",
+    "speciality": "Paediatrics",
+    "exp": 4,
+    "rating": 4,
+    "fees": 400
+  },
+  "Dr. Imran Khan": {
+    "name": "Dr. Imran Khan",
+    "speciality": "Neurology",
+    "exp": 16,
+    "rating": 4.6,
+    "fees": 1
+  },
+  "Dr. Revathi Menon": {
+    "name": "Dr. Revathi Menon",
+    "speciality": "Ophthalmology",
+    "exp": 13,
+    "rating": 4.7,
+    "fees": 650
+  },
+  "Dr. Ashwin Nair": {
+    "name": "Dr. Ashwin Nair",
+    "speciality": "Ophthalmology",
+    "exp": 7,
+    "rating": 4.2,
+    "fees": 500
+  },
+  "Dr. Sridevi Balan": {
+    "name": "Dr. Sridevi Balan",
+    "speciality": "Gastroenterology",
+    "exp": 17,
+    "rating": 4.6,
+    "fees": 1
+  },
+  "Dr. Hari Venkat": {
+    "name": "Dr. Hari Venkat",
+    "speciality": "Gastroenterology",
+    "exp": 9,
+    "rating": 4,
+    "fees": 800
+  },
+  "Dr. Kavitha Srini": {
+    "name": "Dr. Kavitha Srini",
+    "speciality": "Gynaecology",
+    "exp": 19,
+    "rating": 4.8,
+    "fees": 900
+  },
+  "Dr. Deepa Chandran": {
+    "name": "Dr. Deepa Chandran",
+    "speciality": "Gynaecology",
+    "exp": 8,
+    "rating": 4.3,
+    "fees": 600
+  },
+  "Dr. Naveen Reddy": {
+    "name": "Dr. Naveen Reddy",
+    "speciality": "Pulmonology",
+    "exp": 12,
+    "rating": 4.5,
+    "fees": 950
+  },
+  "Dr. Shalini Gupta": {
+    "name": "Dr. Shalini Gupta",
+    "speciality": "Pulmonology",
+    "exp": 6,
+    "rating": 4.1,
+    "fees": 700
+  },
+  "Dr. Gopal Krishnan": {
+    "name": "Dr. Gopal Krishnan",
+    "speciality": "General Physician",
+    "exp": 25,
+    "rating": 4.7,
+    "fees": 600
+  },
+  "Dr. Ritu Agarwal": {
+    "name": "Dr. Ritu Agarwal",
+    "speciality": "General Physician",
+    "exp": 3,
+    "rating": 3.8,
+    "fees": 350
+  },
+  "Dr. Sanjay Mehta": {
+    "name": "Dr. Sanjay Mehta",
+    "speciality": "Cardiology",
+    "exp": 27,
+    "rating": 4.9,
+    "fees": 1
+  },
+  "Dr. Bhavana Shah": {
+    "name": "Dr. Bhavana Shah",
+    "speciality": "Dermatology",
+    "exp": 11,
+    "rating": 4.5,
+    "fees": 750
+  },
+  "Dr. Senthil Murugan": {
+    "name": "Dr. Senthil Murugan",
+    "speciality": "Orthopaedics",
+    "exp": 21,
+    "rating": 4.7,
+    "fees": 1
+  },
+  "Dr. Yamini Das": {
+    "name": "Dr. Yamini Das",
+    "speciality": "ENT",
+    "exp": 5,
+    "rating": 3.9,
+    "fees": 450
+  },
+  "Dr. Prakash Iyer": {
+    "name": "Dr. Prakash Iyer",
+    "speciality": "Dentistry",
+    "exp": 14,
+    "rating": 4.6,
+    "fees": 600
+  },
+  "Dr. Megha Jain": {
+    "name": "Dr. Megha Jain",
+    "speciality": "Paediatrics",
+    "exp": 9,
+    "rating": 4.4,
+    "fees": 550
+  },
+  "Dr. Ravi Shankar": {
+    "name": "Dr. Ravi Shankar",
+    "speciality": "Neurology",
+    "exp": 7,
+    "rating": 4,
+    "fees": 1
+  },
+  "Dr. Leela Kumari": {
+    "name": "Dr. Leela Kumari",
+    "speciality": "Ophthalmology",
+    "exp": 16,
+    "rating": 4.5,
+    "fees": 700
+  }
+}

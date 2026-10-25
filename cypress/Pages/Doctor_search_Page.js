@@ -114,7 +114,7 @@ class Doctor_search_Page {
       .trigger("input")
       .trigger("change");
 
-    //expect the fee should not be greater than 600
+   
 
     cy.get("#doctor-list>article").each((all) => {
       let ll = all.find("p[data-testid='card-fee']").text().trim();

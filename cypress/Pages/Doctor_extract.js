@@ -24,11 +24,11 @@ class Doctorextract {
           .text()
           .trim();
         let experience = Number((rawText.match(/\d+/) || [""])[0]);
-        // this.exp=experience;
+       
 
         let fraw = card.find("p[data-testid='card-fee']").text().trim();
         let fee = Number((fraw.match(/\d+/) || ["0"])[0]);
-        // this.fees=fee;
+        
 
         let rat= Number(card.find("span[data-testid='card-doctor-rating']").text().trim().replace(/[^\d.]/g, ""))
 
